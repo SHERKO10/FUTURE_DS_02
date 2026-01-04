@@ -56,6 +56,10 @@ Action Plan: Conduct a deep dive into CPA (Cost Per Acquisition) by demographic.
 Observation: The current ROAS of 0.78 indicates that for every $1 spent, the campaign returns only $0.78, leading to a net loss.
 Action Plan: Immediate "Stop-Loss" strategy. Identify and pause ad sets with a ROAS below 0.5. Our immediate target is to achieve a Break-Even ROAS of 1.2 by optimizing ad delivery and reducing wasted spend on non-converting audiences.
 
+## 🖼️ Dashboard Preview
+
+![Main Dashboard View](images/dashboard_main.png)
+
 ---
 ## 🚀 How to use
 1. Download the `.pbix` file.
